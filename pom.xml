@@ -407,15 +407,6 @@
         </profile>
     </profiles>
 
-    <pluginRepositories>
-        <!-- Required for Dokka -->
-        <pluginRepository>
-            <id>jcenter</id>
-            <name>JCenter</name>
-            <url>https://jcenter.bintray.com/</url>
-        </pluginRepository>
-    </pluginRepositories>
-
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
